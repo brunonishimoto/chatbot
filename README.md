@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# GO-Bot
+
+**GO-Bot** is a Goal-Oriented Chatbot which is simply a dialog system that interacts with a user using natural language and has the objective to complete a user task. This task can be buy a movie ticket, book a flight, find a restaurant and even provide a customer service. These type of systems are 
 
 You can use the [editor on GitHub](https://github.com/brunonishimoto/chatbot/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
